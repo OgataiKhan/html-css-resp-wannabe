@@ -128,7 +128,7 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
- /* Fino a 1160px */
+ /* Fino a 1160px. Risolve anche la parte tablet fino ai 768px */
 
  @media screen and (max-width: 1160px) {
     .container {
